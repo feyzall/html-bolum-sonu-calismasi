@@ -1,2 +1,2 @@
-## Kodluyoruz html ödevi 1
-kodluyoruz ile yapılan ilk html ödevi
+## html-bolum-sonu-calismasi
+html-bolum-sonu-calismasi
